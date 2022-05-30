@@ -58,8 +58,6 @@ void Print_Graph(Graph* g);
 int Delete_Queue(void);
 
 
-/*---------------------------*/
-
  
 
 //큐 설정
@@ -70,7 +68,7 @@ int rear    = 0;
 
 int queue[MAX_QUEUE];
 
-/*---------------------------*/
+
 
  
 
